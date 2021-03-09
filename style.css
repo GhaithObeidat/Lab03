@@ -1,0 +1,14 @@
+ul{
+    background-color: slategray;
+}
+ul {list-style: none;
+text-align: center;}
+p {background-color: rgb(201, 72, 201);}
+p{font-size: larger;}
+ol{background-color: coral;
+text-align: center;}
+#g{background-color: darkcyan;}
+img{width: 15%;}
+* {
+    text-align: center;
+}
